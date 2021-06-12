@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Sachin
-- 👀 I’m interested in girls
+
 - 🌱 I’m currently learning frontend development
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ...
