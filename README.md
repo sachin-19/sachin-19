@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sachin
-- 🌱 I’m currently learning frontend development
+- 🌱 I’m currently working as a Full Stack Developer
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ...
 - email: sainisachin1906@gmail.com
